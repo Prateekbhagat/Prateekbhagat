@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Prateek Bhagat
+A passionate Problem Solver and developer from India
 
+
+
+- 🌱 I’m currently learning Development and Open Source
+- 📫 How to reach me: prateekbhagat2016@gmail.com
+- ⚡ Fun fact I love to learn new Technologies.
 <!--
 **Prateekbhagat/Prateekbhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
