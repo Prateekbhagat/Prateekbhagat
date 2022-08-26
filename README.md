@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prateek Bhagat</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://prateekbhagat.github.io/Prateek_Bhagat/" target="_blank">Prateek Bhagat</a></h1>
 <h3 align="center">A passionate Problem Solver and developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar37&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkumar37" /> </p> -->
@@ -12,6 +12,8 @@
 - 📫 How to reach me *prateekbhagat2016@gmail.com*
 
 - ⚡ Fun fact *I love to learn new Technologies.*
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
